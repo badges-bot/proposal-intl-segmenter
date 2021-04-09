@@ -1,5 +1,7 @@
 # `Intl.Segmenter`: Unicode segmentation in JavaScript
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Stage 3 proposal, champion Richard Gibson
 
 ## Motivation
